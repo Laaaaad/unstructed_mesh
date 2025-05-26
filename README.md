@@ -4,7 +4,5 @@ hello!
 mmmmmmmmmmmmmmmmmmmmmmmmmm
 nnnnnnnnnnnnnnnnn
 lllllllllllllllllll
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 kkkkkkkkk
 dnlm
