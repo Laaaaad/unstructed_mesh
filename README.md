@@ -8,10 +8,3 @@ lllllllllllllllllll
 <<<<<<< Updated upstream
 kkkkkkkkk
 dnlm
-
-=======
-dnlm
->>>>>>> Stashed changes
-=======
-dnlm
->>>>>>> Stashed changes
