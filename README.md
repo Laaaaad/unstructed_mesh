@@ -4,6 +4,10 @@ hello!
 mmmmmmmmmmmmmmmmmmmmmmmmmm
 nnnnnnnnnnnnnnnnn
 lllllllllllllllllll
+<<<<<<< Updated upstream
 kkkkkkkkk
 dnlm
 
+=======
+dnlm
+>>>>>>> Stashed changes
